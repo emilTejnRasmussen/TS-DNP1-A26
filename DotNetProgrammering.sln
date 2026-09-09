@@ -1,36 +1,36 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week1", "Week1", "{20B9CC6A-D481-400C-9DC0-80990861E5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3", "Ex3\Ex3.csproj", "{2D87C198-C3E5-4788-84EF-07BCA1A71477}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3", "Week1\Ex3\Ex3.csproj", "{2D87C198-C3E5-4788-84EF-07BCA1A71477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4", "Ex4\Ex4.csproj", "{4E702BEF-87FD-40EC-A56B-9580D006463C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4", "Week1\Ex4\Ex4.csproj", "{4E702BEF-87FD-40EC-A56B-9580D006463C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5", "Ex5\Ex5.csproj", "{57DB8541-F371-4292-96E5-C058E8E200B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5", "Week1\Ex5\Ex5.csproj", "{57DB8541-F371-4292-96E5-C058E8E200B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex7", "Ex7\Ex7.csproj", "{8B8AA637-AAB9-4E67-BB9F-5437DB77BC14}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex7", "Week1\Ex7\Ex7.csproj", "{8B8AA637-AAB9-4E67-BB9F-5437DB77BC14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8", "Ex8\Ex8.csproj", "{73CB13F0-6BEA-4739-A6A1-FAA86AC995F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8", "Week1\Ex8\Ex8.csproj", "{73CB13F0-6BEA-4739-A6A1-FAA86AC995F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex9", "Ex9\Ex9.csproj", "{99BD238B-C26F-4571-8872-DDC483B1D706}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex9", "Week1\Ex9\Ex9.csproj", "{99BD238B-C26F-4571-8872-DDC483B1D706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10", "Ex10\Ex10.csproj", "{5ED43B31-2679-4169-8381-64B11F6C7D3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex10", "Week1\Ex10\Ex10.csproj", "{5ED43B31-2679-4169-8381-64B11F6C7D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex11", "Ex11\Ex11.csproj", "{583BB7E2-57F1-48FB-8F34-60C944AA9AA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex11", "Week1\Ex11\Ex11.csproj", "{583BB7E2-57F1-48FB-8F34-60C944AA9AA8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{118CC5A9-13E2-4B92-80FE-A4178A144315}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 - Largest product series", "Ex1 - Largest product series\Ex1 - Largest product series.csproj", "{8F8678AB-5DC1-4592-A32D-D07BA919510E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 - Largest product series", "Week2\Ex1 - Largest product series\Ex1 - Largest product series.csproj", "{8F8678AB-5DC1-4592-A32D-D07BA919510E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2 - Sums and question marks", "Ex2 - Sums and question marks\Ex2 - Sums and question marks.csproj", "{24EF9DA6-5499-41ED-A68B-6CD1AE5BBBEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2 - Sums and question marks", "Week2\Ex2 - Sums and question marks\Ex2 - Sums and question marks.csproj", "{24EF9DA6-5499-41ED-A68B-6CD1AE5BBBEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3 - Identify palindromes", "Ex3 - Identify palindromes\Ex3 - Identify palindromes.csproj", "{93D5B3C2-7423-486E-B1AB-1A5A044E4704}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3 - Identify palindromes", "Week2\Ex3 - Identify palindromes\Ex3 - Identify palindromes.csproj", "{93D5B3C2-7423-486E-B1AB-1A5A044E4704}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4 - Kth largest number", "Ex4 - Kth largest number\Ex4 - Kth largest number.csproj", "{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4 - Kth largest number", "Week2\Ex4 - Kth largest number\Ex4 - Kth largest number.csproj", "{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5 - Spell out the number", "Ex5 - Spell out the number\Ex5 - Spell out the number.csproj", "{1D439998-4DC0-4033-A4ED-D5371BE763FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex5 - Spell out the number", "Week2\Ex5 - Spell out the number\Ex5 - Spell out the number.csproj", "{1D439998-4DC0-4033-A4ED-D5371BE763FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6 - Game quest logic", "Ex6 - Game quest logic\Ex6 - Game quest logic.csproj", "{42530D60-91BF-42B1-BEBA-0A062CE4430E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex6 - Game quest logic", "Week2\Ex6 - Game quest logic\Ex6 - Game quest logic.csproj", "{42530D60-91BF-42B1-BEBA-0A062CE4430E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -112,3 +112,4 @@ Global
 		{42530D60-91BF-42B1-BEBA-0A062CE4430E} = {118CC5A9-13E2-4B92-80FE-A4178A144315}
 	EndGlobalSection
 EndGlobal
+

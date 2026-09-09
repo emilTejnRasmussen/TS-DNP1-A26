@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3 - Identify palindromes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4 - Kth largest number", "Ex4 - Kth largest number\Ex4 - Kth largest number.csproj", "{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex 5 - Spell out the number", "Ex 5 - Spell out the number\Ex 5 - Spell out the number.csproj", "{1D439998-4DC0-4033-A4ED-D5371BE763FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -82,6 +84,10 @@ Global
 		{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D439998-4DC0-4033-A4ED-D5371BE763FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D439998-4DC0-4033-A4ED-D5371BE763FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D439998-4DC0-4033-A4ED-D5371BE763FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D439998-4DC0-4033-A4ED-D5371BE763FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2D87C198-C3E5-4788-84EF-07BCA1A71477} = {20B9CC6A-D481-400C-9DC0-80990861E5BD}
@@ -96,5 +102,6 @@ Global
 		{24EF9DA6-5499-41ED-A68B-6CD1AE5BBBEA} = {118CC5A9-13E2-4B92-80FE-A4178A144315}
 		{93D5B3C2-7423-486E-B1AB-1A5A044E4704} = {118CC5A9-13E2-4B92-80FE-A4178A144315}
 		{2BD5BBBA-08B1-4F2C-9C2B-47D073FB4066} = {118CC5A9-13E2-4B92-80FE-A4178A144315}
+		{1D439998-4DC0-4033-A4ED-D5371BE763FD} = {118CC5A9-13E2-4B92-80FE-A4178A144315}
 	EndGlobalSection
 EndGlobal

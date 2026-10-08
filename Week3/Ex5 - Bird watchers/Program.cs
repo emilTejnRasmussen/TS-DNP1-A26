@@ -2,8 +2,8 @@
 
 Bird bird = new();
 
-new BirdWatcher(bird);
-// new JutlandicBirdWatcher(bird);
+// new BirdWatcher(bird);
+new JutlandicBirdWatcher(bird);
 // new DeafBirdWatcher(bird);
 // new BlindBirdWatcher(bird);
 
